@@ -1,0 +1,905 @@
+
+@media screen and (max-width:1199px) {
+    .header-top-language {
+        margin: 0px 15px 10px 15px;
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        padding: 20px 11px;
+    }
+
+    .input-group input#form {
+        width: 210px;
+        padding: 30px 5px;
+    }
+
+    .slide-text h3 {
+        font-size: 46px;
+    }
+
+    .slide-text h2 {
+        font-size: 40px;
+    }
+
+    .student-review {
+        max-width: 295px;
+        transform: translateY(10%);
+    }
+
+    .blog-title h3 {
+        font-size: 15px;
+    }
+
+    .blog-activity span {
+        margin-right: 0px;
+    }
+
+    .blog-activity i {
+        margin-right: 0px;
+    }
+
+    .blog-social a:first-child {
+        margin-right: 40px;
+    }
+
+    .product-img {
+        margin-right: 13px;
+    }
+
+    .product-price a:first-child {
+        font-size: 12px;
+    }
+
+    .email input {
+        width: 170px;
+    }
+
+    .post-img {
+        margin-right: 10px;
+    }
+
+    .post-desc {
+        width: 120px;
+    }
+
+    .post-desc a {
+        color: #8799aa;
+        font-size: 11px;
+        line-height: 22px;
+        font-weight: 600;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+    .swiper-button-next {
+        left: 52%;
+    }
+
+    .swiper-button-prev {
+        left: 45%;
+    }
+
+    .footer-social a i {
+        padding: 0px 1px;
+    }
+
+    .course-text-bottom {
+        padding: 2px 10px;
+    }
+
+    .course-star {
+        padding: 0px 5px;
+    }
+    .back-to-top {
+        bottom:150px;
+        right: 2%;
+    }
+
+    /*=========================
+          HOMEPAGE TWO
+    ============================*/
+    .course select {
+        margin: 24px 10px;
+    }
+
+    .course button {
+        padding: 14px 59px;
+    }
+    .blog-event-text img{
+        display: block;
+    }
+
+
+    /*=========================
+      HOMEPAGE THREE
+============================*/
+    .choose-study-text {
+        width: 200px;
+        margin-top: 25px;
+    }
+
+    .choose-study-img {
+        margin-left: 7px;
+        transform: translateY(-80%);
+    }
+
+    /*=========================
+         COURSE PAGW
+============================*/
+    .reviews-average {
+        float: none;
+        width: 100%;
+    }
+
+    .reviews-rating {
+        float: none;
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+
+    /*=========================
+     COURSE SINGLE
+============================*/
+    .course-header-text {
+        margin: 18px 60px 23px 0px;
+    }
+
+    /*=========================
+ All Course
+============================*/
+    .courses-list img {
+        float: none;
+        width: 100%;
+    }
+
+    .course-list-head {
+        display: inline-block;
+        overflow: hidden;
+    }
+
+    /*=========================
+         Contact Page
+============================*/
+    .add-contact-list ul li {
+        margin-right: 20px;
+    }
+
+    /*=========================
+     404 Page
+============================*/
+    .error-input-group > input#form {
+        padding: 25px 5px;
+    }
+
+    /*=========================
+        Blog Single
+============================*/
+    .para-design span:before {
+        width: 280px;
+    }
+    .para-design span:after {
+        width: 280px;
+    }
+    /*=========================
+       Event Single
+============================*/
+    .all-course-feature ul li i {
+        margin-right: 3px;
+    }
+    .single-comments span {
+        margin-left: 10px;
+        color: #707070;
+        font-size: 12px;
+    }
+    /*=========================
+      All event page
+============================*/
+    .events-blog-color span {
+        margin-left: 10px;
+        color: #707070;
+        font-size: 12px;
+    }
+    /*=========================
+  All event list
+============================*/
+    .events-blog-header {
+        padding: 0px 20px;
+    }
+    .events-single-color p {
+        margin: 0px 0px 0px 0px;
+
+    }
+    .events-single-link {
+        padding: 5px 0px;
+    }
+    /*=========================
+      blog list
+============================*/
+    .blog-list-info a:first-child {
+        margin-right: 0px;
+    }
+}
+
+@media screen and (max-width:991px){
+    .input-group input#form {
+        width: 118px;
+        padding: 30px 5px;
+    }
+    .header-top-social ul li a i {
+        padding: 13px 2px;
+    }
+    .header-top-language {
+        margin: 0px 8px 10px 2px;
+    }
+    .header-top-apply a {
+        padding: 13px 10px;
+
+    }
+    .navbar-default .navbar-nav>li>a {
+         padding: 20px 10px;
+        font-size:10px;
+     }
+    .header-middle-right ul li {
+        padding: 0px 0px;
+    }
+
+    }
+
+     @media screen and (max-width:990px){
+	.header-top-right {
+        float: none;
+    }
+    .header-top-social {
+        float: none;
+
+    }
+    .header-top-social ul li a i {
+        padding: 14px 3px;
+    }
+    .header-top-language {
+        margin: 0px 0px 10px 0px;
+    }
+    .header-top-apply a {
+        padding: 14px 5px;
+    }
+    .header-middle-right ul li {
+        padding: 0px;
+    }
+    .header-middle-right-icon i {
+        margin-right: 0px;
+    }
+    .header-middle-right-text {
+        padding: 10px 8px;
+    }
+    .header-middle-right-text p {
+        font-size: 13px;
+    }
+    .header-middle-right-text p:last-child {
+        font-size: 12px;
+
+    }
+
+    .navbar-default .navbar-nav>li>a {
+        padding: 20px 11px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 10px;
+    }
+    .input-group input#form{
+        width: 115px;
+        padding: 30px 5px;
+    }
+    .student-review:before{
+	    display: none;
+    }
+    .blog-list {
+        margin: 20px 0px;
+    }
+         .container>.row>.row {
+             margin-left: 0px;
+             margin-right: 0px;
+         }
+
+        /*=========================
+          HOMEPAGE TWO
+    ============================*/
+    .slide-text h3 {
+    font-size: 30px;
+	}
+	.slide-text h2 {
+    font-size: 35px;
+	}
+	.slider-link a {
+    margin-right: 10px;
+	}
+	.slider-button-view {
+    padding: 16px 20px;
+	}
+    .course select {
+    margin: 24px 5px;
+    }
+    .course button {
+    padding: 14px 37px;
+    }
+    .price-list {
+    margin-bottom: 30px;
+	}
+	.events-blog {
+    margin-bottom: 30px;
+	}
+	.shop-details{
+		margin-bottom: 30px;
+	}
+	.shop-title-main h3 {
+    margin-left: 50px;
+	}
+        /*=========================
+          HOMEPAGE THREE
+    ============================*/
+         .single-item {
+             width: 48%;
+         }
+    .counterup-item ul li {
+    margin-bottom: 30px;
+    }
+    .choose-study-text {
+    width: 130px;
+    }
+    .choose-study-img {
+    transform: translateY(-210%);
+    }
+         .choose-study-item img {
+             display: none;
+         }
+
+         /*=========================
+            Course single
+      ============================*/
+         .add-rating ul {
+          float: none;
+         }
+         #map {
+           max-width: none;
+         }
+         .quick-contact {
+            text-align: center;
+         }
+         /*=========================
+         contact page
+   ============================*/
+         .add-contact-list ul li {
+             margin-right: 100px;
+             margin-bottom: 25px;
+         }
+         /*=========================
+     error page search
+============================*/
+         .error-page-search .input-group input#form {
+             width: 200px;
+             padding: 25px 5px;
+         }
+         /*=========================
+    blog list
+============================*/
+.blog-item{
+    background-color:transparent;
+    border:none;
+}
+         /*=========================
+       shop page
+============================*/
+         .shop-cart>tbody>tr>td> h4 {
+             margin-top: 10px;
+         }
+         /*=========================
+       shop cart page
+============================*/
+         .shop-cart>tbody>tr>td:first-child {
+              width: 0px;
+         }
+
+
+         /*=========================
+     all event list
+============================*/
+         .all-events-blog {
+             display: block;
+             overflow: hidden;
+         }
+         .events-blog-header {
+             padding: 36px 20px;
+         }
+
+}
+
+
+
+@media screen and (min-width:768px){
+	.dropdown:hover .submenu{
+		opacity: 1;
+		visibility: visible;
+		transform: translateY(-20px);
+	}
+	.submenu {
+	    position: absolute;
+	    display: block;
+	    width: 200px;
+	    top: 80px;
+	    left: 0;
+	    opacity: 0;
+	    visibility: hidden;
+	    transition: .5s all ease 0s;
+	    padding: 10px;
+	    min-width: 250px;
+	}
+
+}
+
+
+/*------------------max-width:768px------------------*/
+@media screen and (max-width:767px){
+    .header-top {
+        display: none;
+    }
+    .header-middle .row{
+    	margin-right: 0px;
+    	margin-left: 0px;
+    }
+
+    .header-middle-left img {
+        margin: 0 auto;
+    }
+    .header-middle-right {
+        margin-left: 25px;
+        float: none;
+    }
+
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-toggle {
+        float: left;
+        padding: 8px;
+        margin: 8px 0px 0px 10px;
+    }
+    .navbar-nav>li {
+        float: none;
+        padding-left: 40px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        padding: 15px 15px;
+        font-size: 14px;
+        font-weight: 24px;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #22313f;
+        background-color: rgba(255, 255, 255, 0.53);
+    }
+    .header-bottom-search {
+        float: none;
+        text-align: center;
+
+    }
+    .input-group {
+        margin: 0 auto;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #fff;
+        background-color: #333;
+    }
+    .slide-text {
+        margin-left: 40px;
+    }
+    .slide-text p {
+        display: none;
+    }
+    .slider-link {
+        margin: 40px 0px;
+    }
+    .slider-link a {
+        margin-right: 15px;
+    }
+    .slider-button-view {
+        padding: 16px 20px;
+        margin-right: 10px;
+    }
+    .teacher-list {
+        width: 90%;
+        margin: 30px auto;
+    }
+    .teacher-pic img {
+        overflow: hidden;
+        display: inline-block;
+        width: 100%;
+    }
+    .popular-text {
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .blog-list {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /*=========================
+          HOMEPAGE TWO
+    ============================*/
+    .course{
+    	width: 90%;
+    	margin-left: auto;
+    	margin-right: auto;
+    }
+    .course select {
+    margin: 24px 0px;
+    }
+    .course button {
+    padding: 14px 23px;
+    }
+    .categories-full {
+    	margin:0px;
+	}
+    .course-categorie-item{
+    	text-align: center;
+    }
+    .categories-img{
+    	float: none;
+    	display: inline-block;
+    }
+    .categories-text{
+    	margin-left: 0px;
+    	display: inline-block;
+    	margin-top: 30px;
+    }
+    .shop-details {
+    margin-bottom: 30px;
+	}
+        /*=========================
+          HOMEPAGE THREE
+    ============================*/
+    .study-item {
+    margin-left: 0px;
+    margin-right: 0px;
+    }
+    .counterup-item ul li {
+    margin: 0px 20%;
+    margin-top: 50px;
+    }
+    .choose-study-item {
+     margin-left: 0px; 
+     margin-right: 0px;
+    }
+    .choose-study-item img {
+    margin: 0 auto;
+    }
+    .choose-study-list {
+    text-align: center;
+    }
+    .choose-study-text {
+    width:100%;
+    text-align: center;
+    margin-top: 80px;
+    }
+    .choose-study-img {
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+    transform: translateY(-260%);
+    }
+    .choose-study-text.right {
+    text-align: center;
+    }
+    .choose-study-img.right{
+        transform: translateY(-340%);
+        float: none;
+    }
+    .choose-study-icon{
+        line-height: 50px;
+    }
+    /*=========================
+    COURSE SINGLE
+============================*/
+    .course-content-header {
+        text-align: center;
+    }
+    .course-info-list>.container>.row>.row{
+         margin-left: 0px;
+         margin-right: 0px;
+     }
+    .course-info-list>.container>.row{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .events-single-img {
+        float: none;
+    }
+    /*=========================
+     PRODUCT CART
+============================*/
+    .product-cart-list{
+        width: 860px !important;
+
+    }
+    .coupon-left {
+        float: none;
+        margin-bottom: 30px;
+    }
+    .coupon-right {
+        float:none;
+        margin-top: 10px;
+    }
+    .coupon-list{
+        text-align: center;
+    }
+    .coupon-left input{
+        width: 100%;
+        display: block;
+        margin-bottom: 30px;
+    }
+    .coupon-left a{
+        display: block;
+    }
+    .coupon-right a{
+        display: block;
+        margin-bottom: 30px;
+    }
+    .coupon-right a:last-child{
+        margin-left: 0px;
+    }
+    .coupon-shipping input {
+        margin-bottom: 15px;
+    }
+    /*=========================
+      BLOG SINGLE
+============================*/
+    .para-design span:before {
+        width: 270px;
+    }
+    .para-design span:after {
+        width: 270px;
+    }
+}
+
+/*------------------max-width:640px------------------*/
+@media screen and (max-width:640px){
+    .header-middle-item .row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .header-middle-right {
+        margin-left: 0px;
+    }
+    .header-middle-right-text {
+        padding: 10px 4px;
+    }
+    .slide-text h3 {
+        font-size: 25px;
+    }
+    .slide-text h2 {
+        font-size: 25px;
+    }
+    .slider-link {
+        margin: 30px 0px;
+    }
+    .slider-button-view {
+        padding: 10px 10px;
+    }
+    .student-review {
+       transform: translateY(10%);
+       max-width: 422px;
+       padding: 5px;
+    }
+    .footer-bottom {
+        text-align: center;
+    }
+    .footer-bottom-money {
+        float: none;
+    }
+    .footer-bottom p {
+	    padding: 0;
+	    margin-top: 20px;
+	    margin-bottom: 0px;
+    }
+    /*=========================
+          HOMEPAGE TWO
+    ============================*/
+    .course select:first-child {
+    margin-left: 0px;
+    display: block;
+    text-align: center;
+    margin: 24px 100px;
+	}
+    .course select {
+    margin: 24px 100px;
+    padding: 10px;
+    width: 35%;
+    }
+	.course button {
+    padding: 14px 45px;
+    margin: 20px 100px;
+	}
+	.visit-study h5{
+		font-size: 25px;
+	}
+	.blog-event-text img{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.blog-event-img {
+    float:none;
+    margin-left: 80px;
+	}
+        /*=========================
+          HOMEPAGE THREE
+    ============================*/
+    .choose-study-img {
+    transform: translateY(-290%);
+    }
+    .choose-study-img.right {
+    transform: translateY(-371%);
+    }
+    .counterup-item ul li {
+        margin: 0px 10%;
+        margin-top: 50px;
+    }
+    /*=========================
+  course single
+============================*/
+    .progress {
+        width: 60%;
+    }
+    .smarter-right {
+        float: none;
+    }
+    .smarter-left span {
+        margin: 0px 40px;
+    }
+    .reviews-rating-star span {
+        margin-right: 15px;
+    }
+    /*=========================
+All course
+============================*/
+    .courses-header {
+        text-align: center;
+    }
+    .courses-categories {
+     float: none;
+    }
+    .courses-categories select {
+        margin:20px 0px;
+    }
+    .courses-grid {
+     float:none;
+    }
+    .pagination>li:first-child {
+        margin-right: 0px;
+    }
+    .pagination>li:last-child {
+        margin-left: 0px;
+    }
+    /*=========================
+       BLOG SINGLE
+============================*/
+    .para-design span:before {
+        width: 130px;
+    }
+    .para-design span:after {
+        width: 130px;
+    }
+    /*=========================
+          ERROR PAGE
+============================*/
+    .error-page-icon h3 {
+        font-size: 130px;
+    }
+    .error-page-icon img {
+        width: 130px;
+        height: 130px;
+    }
+    .error-page-para h3 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+
+
+    }
+@media screen and (max-width:340px){
+    .carousel-indicators {
+        display: none;
+    }
+    .slide-text h3 {
+        font-size: 15px;
+    }
+    .slide-text h2 {
+        font-size: 15px;
+    }
+    .slider-link {
+        margin: 10px 0px;
+    }
+    .section-header h2 {
+        font-size: 25px;
+    }
+    .slider-button-view {
+        padding: 7px 7px;
+        font-size: 8px;
+    }
+    .course-star {
+        padding: 0px;
+    }    
+    .course-text-author-text h4 {
+        font-size: 14px;
+    }
+    .blog-title h3 {
+        font-size: 14px;
+    }
+    .blog-activity {
+        font-size: 13px;
+    }
+    .blog-social {
+        padding: 9px 3px;
+    }
+            /*=========================
+          HOMEPAGE THREE
+    ============================*/
+    .choose-study-img.right {
+    transform: translateY(-370%);
+    }
+    .choose-study-img {
+        transform: translateY(-290%);
+    }
+    /*=========================
+     TEACHER PAGE
+============================*/
+    .teacher-information-contact-list i {
+        float: none;
+    }
+
+    /*=========================
+COURSE SINGLe
+============================*/
+    .reviews-left {
+        margin-left: 0px;
+    }
+    .reviews-count-text {
+         display: block;
+    }
+    .progress {
+        width: 40%;
+    }
+    .smarter-left span {
+        margin: 0px 20px;
+    }
+    .smarter-right {
+        float: none;
+    }
+    /*=========================
+        BLOG SINGLE
+============================*/
+    .blog-social a:first-child {
+        margin-right: 15px;
+    }
+    .para-design span:before {
+        width: 100px;
+    }
+    .para-design span:after {
+        width: 100px;
+    }
+    .error-page-icon img {
+        width: 190px;
+        height: 190px;
+    }
+    .single-item {
+        width: 100%;
+    }
+}
+
